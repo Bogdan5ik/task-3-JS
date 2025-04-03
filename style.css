@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    border: 1px solid blue;
+    border-radius: 50px;
+    height: 3rem;
+    box-shadow: 0px 0px 16px;
+    width: 10rem;
+    color: blue;
+    position: absolute;
+    left: 70rem;
+    top: 30rem;
+    cursor: pointer;
+}
+
+.gif{
+    width: 7rem;
+    position: absolute;
+    top: -10rem;
+}
+
+.gif:nth-child(2){
+    width: 7rem;
+    position: absolute;
+    left: 15rem;
+    transition: 3s;
+}
+
+.gif:nth-child(3){
+    width: 7rem;
+    position: absolute;
+    left: 25rem;
+    transition: 2s;
+}
+
+.gif:nth-child(4){
+    width: 7rem;
+    position: absolute;
+    left: 35rem;
+    transition: 3s;
+}
+
+.gif:nth-child(5){
+    width: 7rem;
+    position: absolute;
+    left: 45rem;
+    transition: 5s;
+}
+
+.gif:nth-child(6){
+    width: 7rem;
+    position: absolute;
+    left: 55rem;
+    transition: 3s;
+}
+
+.gif:nth-child(7){
+    width: 7rem;
+    position: absolute;
+    left: 65rem;
+    transition: 3s;
+}
+
+.gif:nth-child(8){
+    width: 7rem;
+    position: absolute;
+    left: 75rem;
+    transition: 2s;
+}
+
+.gif:nth-child(9){
+    width: 7rem;
+    position: absolute;
+    left: 85rem;
+    transition: 5s;
+}
+
+.gif:nth-child(10){
+    width: 7rem;
+    position: absolute;
+    left: 95rem;
+    transition: 2s;
+}
+
+.gif:nth-child(11){
+    width: 7rem;
+    position: absolute;
+    left: 105rem;
+    transition: 3s;
+}
+
+.gif:nth-child(12){
+    width: 7rem;
+    position: absolute;
+    left: 115rem;
+    transition: 6s;
+}
+
+.gif:nth-child(13){
+    width: 7rem;
+    position: absolute;
+    left: 125rem;
+    transition: 3s;
+}
+
+.gif:nth-child(14){
+    width: 7rem;
+    position: absolute;
+    left: 135rem;
+    transition: 4s;
+}
+
+.gif:nth-child(15){
+    width: 7rem;
+    position: absolute;
+    left: 145rem;
+    transition: 2s;
+}
+
+.gif:nth-child(16){
+    width: 7rem;
+    position: absolute;
+    left: 155rem;
+    transition: 3s;
+}
